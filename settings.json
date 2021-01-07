@@ -1,0 +1,68 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.colorTheme": "Atom One Dark",
+    "window.zoomLevel": 0,
+    "editor.fontSize": 14,
+    "[javascript]": {
+        "editor.defaultFormatter": "Wscats.eno"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorBlinking": "expand",
+    "terminal.integrated.fontFamily": "Menlo for Powerline",
+    "terminal.integrated.fontSize": 15,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "editor.semanticTokenColorCustomizations": {
+    },
+    "editor.tokenColorCustomizations": {
+    },
+    "workbench.colorCustomizations": {
+        "editor.background": "#24272d"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "octref.vetur"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[html]": {
+        "editor.defaultFormatter": "Wscats.eno"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "Wscats.eno"
+    },
+    "[json]": {
+    "breadcrumbs.showEnumMembers": true,
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace",
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2
+    },
+    "auto-rename-tag.activationOnLanguage": [
+         "html", "xml", "php", "javascript"
+    ],
+    "ruby.intellisense": "rubyLocate",
+    "ruby.format": "standard",
+    "ruby.codeCompletion": "rcodetools",
+    "emmet.includeLanguages": {
+        "html.erb": "html"
+    },
+    "highlight-matching-tag.enabled": true,
+    "python.languageServer": "Microsoft",
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "cSpell.enableFiletypes": [
+        "ruby"
+    ],
+    "tabnine.experimentalAutoImports": true,
+    "ruby.rubocop.configFilePath": "/Users/barry/.rubocop.yml",
+}
